@@ -1,0 +1,16 @@
+{
+  "MIKU": {
+    "Printable": true,
+    "StartingMinion": true,
+    "Randomize": true,
+    "Name": "Hatsune Miku",
+    "Description": "This {0} appears to sort repetitive labor into meter. The pod insists this is not a music-related malfunction.",
+    "Gender": "Female",
+    "StressTrait": "UglyCrier",
+    "JoyTrait": "BalloonArtist",
+    "HeadShape": "3",
+    "Eyes": "2",
+    "Hair": "hair_cassidy",
+    "Body": "1"
+  }
+}
